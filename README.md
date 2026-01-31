@@ -1,6 +1,6 @@
 ## DESCRIPCIÓN
 
-El programa está diseñado para detectar cartas de la brisca española y, posteriormente, aplicar un algoritmo que predice las mejores jugadas para maximizar las probabilidades de victoria.
+El programa está diseñado para detectar cartas de la brisca española y, posteriormente, aplicar un algoritmo que predice las mejores jugadas para maximizar las probabilidades de victoria. Se ha realizado usando la librería OpenCV.
 
 ## PARTES DE LA QUE CONSTA
 
